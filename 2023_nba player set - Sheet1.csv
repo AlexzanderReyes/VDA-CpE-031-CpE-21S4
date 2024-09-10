@@ -1,0 +1,31 @@
+Field Name,Description,Data Type
+POS,The player’s position on the court,string
+TEAM,The name or abbreviation of the team the player is on,string
+AGE,The age of player,int
+GP,The total number of games the player has participated in,int
+W,The number of games won by the team when the player was active,int
+L,The number of games lost by the team when the player was active,int
+MIN,The total number of minutes the player has spent on the court,float
+PTS,The total number of points scored by the player,int
+FGM,The number of successful field goal attempts by the player,int
+FGA,The number of field goal attempts by the player,int
+FG%,The percentage of successful field goal attempts,int
+3PA,The number of three-point shots attempted by the player,int
+3P%,The percentage of successful three-point shots,float
+FTM,The number of successful free throw attempts by the player,int
+FTA,The number of free throw attempts by the player,int
+FT%,The percentage of successful free throw attempts,int
+OREB,The number of rebounds collected on the offensive end,int
+DREB,The number of rebounds collected on the defensive end,int
+REB,The total number of rebounds,int
+AST,The number of times the player has passed the ball leading to a score,int
+TOV,The number of times the player loses possession of the ball,int
+STL,The number of times the player takes the ball away from an opponent,int
+BLK,The number of times the player deflects or stops an opponent’s shot attempt,int
+PF,The number of fouls committed by the player,int
+FP,"Points accumulated based on the player's performance, often used in fantasy basketball leagues.",int
+DD2,The number of games in which the player has achieved double figures in at least two statistical categories,int
+TD3,The number of games in which the player has achieved double figures in at least three statistical categories,int
+,,
+,The Numbers of Rows (Observable) = 540,
+,The Numbers of Columns (Variable)  = 29,
