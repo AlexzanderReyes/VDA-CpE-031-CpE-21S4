@@ -1,0 +1,7 @@
+,Computer ID,Brand,Model,Processor,RAM (GB),Storage (GB),Graphics Card,Price ($)
+0,1.0,Dell,XPS 13,Intel i7,16.0,512.0,Intel Iris Xe,1200.0
+1,2.0,HP,Pavilion 15,AMD Ryzen 5,8.0,256.0,AMD Radeon,800.0
+2,3.0,Apple,MacBook Pro,Apple M1,16.0,1024.0,Apple Integrated,2400.0
+3,4.0,Lenovo,ThinkPad X1,Intel i9,32.0,512.0,NVIDIA GTX 1650,1800.0
+4,5.0,Asus,ZenBook 14,Intel i5,16.0,512.0,NVIDIA MX250,1000.0
+5,,,,,,,,
